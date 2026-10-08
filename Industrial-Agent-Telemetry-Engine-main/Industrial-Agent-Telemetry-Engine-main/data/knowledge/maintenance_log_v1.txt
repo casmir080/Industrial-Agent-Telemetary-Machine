@@ -1,0 +1,7 @@
+COMPONENT: High Pressure Compressor (HPC)
+OBSERVATION: Severe blade degradation and thermal scoring detected.
+PROCEDURE: Initiate turbine wash and replace HPC seal rings.
+
+COMPONENT: Fan Module
+OBSERVATION: Excessive vibration during takeoff spool-up.
+PROCEDURE: Rebalance fan blades and inspect bearing assemblies.
